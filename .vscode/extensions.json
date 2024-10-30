@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "donjayamanne.python-environment-manager",
+        "ms-python.python",
+        "kevinrose.vsc-python-indent",
+        "ms-python.debugpy",
+        "njpwerner.autodocstring"
+    ]
+}
